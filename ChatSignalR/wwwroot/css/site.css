@@ -1,0 +1,22 @@
+﻿@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css");
+
+* {
+    box-sizing: border-box;
+}
+
+main {
+    min-height: 85vh;
+}
+
+nav {
+    background-color: #f8bfff;
+}
+
+.my-shadow {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+}
